@@ -1,7 +1,5 @@
-# Guark Vue Template
+# Eqqus EventSoft
 Guark Vue.js app template.
-
-![Guark Vue Template](https://i.imgur.com/RhU6bh7.png)
 
 ## Install
 
